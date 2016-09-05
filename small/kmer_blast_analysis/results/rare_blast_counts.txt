@@ -1,0 +1,38 @@
+"species"	"x"
+"Acidovorax sp. JS42 chromosome, complete genome"	1
+"Escherichia coli 536, complete genome"	2
+"Escherichia coli APEC O1 chromosome, complete genome"	8
+"Escherichia coli BL21-Gold(DE3)pLysS AG chromosome, complete genome"	2
+"Escherichia coli ED1a chromosome, complete genome"	3
+"Escherichia coli IAI39 chromosome, complete genome"	1
+"Escherichia coli IHE3034 chromosome, complete genome"	1
+"Escherichia coli NA114 chromosome, complete genome"	1
+"Escherichia coli O104:H4 str. 2011C-3493 chromosome, complete genome"	1
+"Escherichia coli O127:H6 str. E2348/69 chromosome, complete genome"	1
+"Escherichia coli O157:H7 str. Sakai chromosome, complete genome"	3
+"Escherichia coli O7:K1 str. CE10 chromosome, complete genome"	1
+"Escherichia coli O83:H1 str. NRG 857C chromosome, complete genome"	2
+"Escherichia coli PMV-1 main chromosome, complete genome"	1
+"Escherichia coli S88 chromosome, complete genome"	42
+"Escherichia coli S88 plasmid pECOS88, complete sequence"	8
+"Escherichia coli SE15, complete genome"	2
+"Escherichia coli SE15 plasmid pECSF1, complete sequence"	2
+"Escherichia coli SMS-3-5 chromosome, complete genome"	2
+"Escherichia coli str. clone D i2 chromosome, complete genome"	34
+"Escherichia coli UM146 chromosome, complete genome"	7
+"Escherichia coli UMN026 chromosome, complete genome"	2
+"Escherichia coli UTI89 chromosome, complete genome"	172
+"Microcystis aeruginosa NIES-843 chromosome, complete genome"	7
+"none"	22
+"Pseudomonas fluorescens A506 chromosome, complete genome"	302
+"Pseudomonas poae RE*1-1-14, complete genome"	1
+"Pseudomonas putida HB3267 plasmid pPC9, complete sequence"	1
+"Shigella flexneri 2a str. 301 chromosome, complete genome"	1
+"Shigella flexneri 5 str. 8401 chromosome, complete genome"	1
+"Shigella sonnei Ss046 chromosome, complete genome"	2
+"Stenotrophomonas maltophilia JV3 chromosome, complete genome"	1
+"Stenotrophomonas maltophilia K279a chromosome, complete genome"	2
+"Synechococcus elongatus PCC 6301 chromosome, complete genome"	4
+"Synechococcus elongatus PCC 7942 chromosome, complete genome"	255
+"Synechococcus elongatus PCC 7942 plasmid 1, complete sequence"	1
+"Thiocystis violascens DSM 198 chromosome, complete genome"	1

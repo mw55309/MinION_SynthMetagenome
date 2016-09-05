@@ -1,0 +1,65 @@
+"species"	"x"
+"Azospirillum lipoferum 4B plasmid AZO_p4, complete sequence"	1
+"Azotobacter vinelandii DJ chromosome, complete genome"	1
+"Bradyrhizobium japonicum USDA 6, complete genome"	1
+"Bradyrhizobium sp. S23321, complete genome"	1
+"Caulobacter sp. K31 chromosome, complete genome"	1
+"Chitinophaga pinensis DSM 2588 chromosome, complete genome"	1
+"Desulfobacca acetoxidans DSM 11109 chromosome, complete genome"	1
+"Escherichia coli 042, complete genome"	1
+"Escherichia coli 536, complete genome"	2
+"Escherichia coli APEC O1 chromosome, complete genome"	5
+"Escherichia coli BL21-Gold(DE3)pLysS AG chromosome, complete genome"	5
+"Escherichia coli E24377A chromosome, complete genome"	1
+"Escherichia coli ED1a chromosome, complete genome"	2
+"Escherichia coli HS, complete genome"	1
+"Escherichia coli O127:H6 str. E2348/69 chromosome, complete genome"	2
+"Escherichia coli O157:H7 str. Sakai chromosome, complete genome"	3
+"Escherichia coli O83:H1 str. NRG 857C chromosome, complete genome"	1
+"Escherichia coli PMV-1 main chromosome, complete genome"	4
+"Escherichia coli S88 chromosome, complete genome"	47
+"Escherichia coli S88 plasmid pECOS88, complete sequence"	5
+"Escherichia coli SE15, complete genome"	1
+"Escherichia coli SMS-3-5 chromosome, complete genome"	1
+"Escherichia coli SMS-3-5 plasmid pSMS35_130, complete sequence"	2
+"Escherichia coli str. clone D i2 chromosome, complete genome"	30
+"Escherichia coli UM146 chromosome, complete genome"	12
+"Escherichia coli UMN026 chromosome, complete genome"	2
+"Escherichia coli UTI89 chromosome, complete genome"	237
+"Escherichia fergusonii ATCC 35469 chromosome, complete genome"	1
+"Flavobacterium columnare ATCC 49512 chromosome, complete genome"	1
+"Gemmatimonas aurantiaca T-27, complete genome"	1
+"Geodermatophilus obscurus DSM 43160 chromosome, complete genome"	1
+"Magnetospirillum gryphiswaldense MSR-1 v2, complete genome"	1
+"Micavibrio aeruginosavorus EPB, complete genome"	1
+"Microcystis aeruginosa NIES-843 chromosome, complete genome"	215
+"none"	51
+"Nostoc sp. PCC 7120 chromosome, complete genome"	1
+"Novosphingobium aromaticivorans DSM 12444 chromosome, complete genome"	1
+"Oceanimonas sp. GK1 chromosome, complete genome"	1
+"Oscillatoria acuminata PCC 6304 chromosome, complete genome"	1
+"Owenweeksia hongkongensis DSM 17368 chromosome, complete genome"	1
+"Phaeobacter gallaeciensis DSM 26640, complete genome"	1
+"Polymorphum gilvum SL003B-26A1 chromosome, complete genome"	1
+"Pseudomonas fluorescens A506 chromosome, complete genome"	395
+"Pseudomonas fluorescens F113 chromosome, complete genome"	1
+"Pseudomonas fluorescens SBW25 chromosome, complete genome"	3
+"Pseudomonas putida ND6 chromosome, complete genome"	4
+"Pseudomonas sp. UW4 chromosome, complete genome"	1
+"Rhodopseudomonas palustris BisB5 chromosome, complete genome"	1
+"Rhodospirillum centenum SW chromosome, complete genome"	1
+"Shigella dysenteriae Sd197 chromosome, complete genome"	1
+"Shigella flexneri 2a str. 2457T, complete genome"	1
+"Shigella flexneri 2a str. 301 chromosome, complete genome"	1
+"Shigella flexneri 5 str. 8401 chromosome, complete genome"	1
+"Shigella sonnei Ss046 chromosome, complete genome"	4
+"Stenotrophomonas maltophilia D457, complete genome"	1
+"Stenotrophomonas maltophilia K279a chromosome, complete genome"	2
+"Stenotrophomonas maltophilia R551-3 chromosome, complete genome"	2
+"Streptomyces griseus subsp. griseus NBRC 13350 chromosome, complete genome"	1
+"Synechococcus elongatus PCC 6301 chromosome, complete genome"	7
+"Synechococcus elongatus PCC 7942 chromosome, complete genome"	276
+"Synechococcus elongatus PCC 7942 plasmid 1, complete sequence"	3
+"Synechococcus sp. RCC307 chromosome, complete genome"	1
+"Weeksella virosa DSM 16922 chromosome, complete genome"	1
+"Xanthomonas axonopodis pv. citrumelo F1 chromosome, complete genome"	1
