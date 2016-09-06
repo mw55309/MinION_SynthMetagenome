@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 
-use lib "/mnt/ark1/software/BioPerl-1.6.0";
-use lib "/mnt/ris-fas1a/ark1/software/BioPerl-1.6.0";
-
 # use Bio::Perl
 use Bio::SearchIO;
 
